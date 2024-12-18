@@ -19,5 +19,5 @@ utiliser les bonnes pratiques pour respecter le Git Flow
 ### Cloner le dépôt
 
 ```bash
-git clone https://github.com/nom-utilisateur/dm_jules_millet.git
+git clone https://github.com/julesmillet/dm_jules_millet.git
 cd dm_jules_millet
